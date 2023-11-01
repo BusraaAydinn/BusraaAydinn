@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BusraaAydinn
 - 👀 I’m interested in Software Testing
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, SQL
 - 📫 How to reach me https://www.linkedin.com/in/busraaaydinn/
 
 <!---
